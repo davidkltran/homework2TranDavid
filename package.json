@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/davidkltran/homework2TranDavid/issues"
   },
-  "homepage": "https://github.com/davidkltran/homework2TranDavid#readme"
+  "homepage": "https://github.com/davidkltran/homework2TranDavid#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
